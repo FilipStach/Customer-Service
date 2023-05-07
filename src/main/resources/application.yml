@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+spring:
+  main:
+    web-application-type: servlet
